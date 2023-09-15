@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SnowDingo Woof Woof!!
-- 👀 I’m interested in Godot game dev and discord bot creation.
-- 🌱 I’m currently learning Godot engine and discord bot.
-- 💞️ I’m looking to collaborate on godot engine game.
-- 📫 youtube: SnowDingo https://www.youtube.com/@snowdingo
+- 👋 Hi, I’m @SnowDingo
+- 👀 I’m interested in game dev, app engineering, and cyber security
+- 🌱 I’m currently learning Flutter 
+- 💞️ I am looking for a laptop
+- 📫 YouTube: SnowDingo https://www.youtube.com/@snowdingo
 
 <!---
 SnowDingo/SnowDingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
