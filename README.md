@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SnowDingo
-- 👀 I’m interested in game dev, app engineering, and cyber security
-- 🌱 I’m currently learning Flutter 
+- 👀 I’m interested in game dev and web engineering
+- 🌱 I’m currently learning Astro and Godot
 - 💞️ I am looking for a laptop
-- 📫 YouTube: SnowDingo https://www.youtube.com/@snowdingo
+- 📫 Portfolio https://snowdingo.github.io/Portofolio/
 
 <!---
 SnowDingo/SnowDingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
