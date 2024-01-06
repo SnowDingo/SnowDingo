@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @SnowDingo
-- 👀 I’m interested in game dev and web engineering
+# About ME
+I am a young passionate coder, and here are some little facts about me:
+- 😎 I am currently developing a free graph maker web app. https://free-graph-maker.vercel.app/
+- 👀 I’m interested in game dev and web development
 - 🌱 I’m currently learning Astro and Godot
-- 💞️ I am looking for a laptop
 - 📫 Portfolio https://snowdingo.github.io/Portofolio/
+- 🐟 My blog -> https://binary-fish.vercel.app/
+- 💞️ Pronouns: He/Him
 
 # 📊 Github Stats
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SnowDingo)
