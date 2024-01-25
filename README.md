@@ -8,7 +8,7 @@ I am a young passionate coder, and here are some little facts about me:
 - 💞️ Pronouns: He/Him
 
 # 📊 Github Stats
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=SnowDingo)
+![SnowDingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowdingo&show_icons=true&theme=transparent)
 
 # 🛥️ Top Languages
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDingo&layout=compact)
