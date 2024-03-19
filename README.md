@@ -7,6 +7,16 @@ I am a young passionate coder, and here are some little facts about me:
 - 🐟 My blog -> https://binary-fish.vercel.app/
 - 💞️ Pronouns: He/Him
 
+# 💪 My Skills 
+
+ ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+ ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+ ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+ 
+ ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+ ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
 # 📊 Github Stats
 ![SnowDingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowdingo&show_icons=true&theme=transparent)
 
