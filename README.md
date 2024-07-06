@@ -16,7 +16,10 @@ I am a young passionate coder, and here are some little facts about me:
  ![Godot Engine](https://img.shields.io/badge/Godot%20Engine-478CBF.svg?style=for-the-badge&logo=Godot-Engine&logoColor=white)
  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Github](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
- 
+
+# Astro Contribution Stats
+[![@SnowDingo Astro contributions](https://astro.badg.es/v2/contributor/SnowDingo.svg)](https://astro.badg.es/contributor/SnowDingo/)
+
 # 📊 Github Stats
 ![SnowDingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowdingo&show_icons=true&theme=transparent)
 
