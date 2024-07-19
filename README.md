@@ -21,10 +21,10 @@ I am a young passionate coder, and here are some little facts about me:
 [![@SnowDingo Astro contributions](https://astro.badg.es/v2/contributor/SnowDingo.svg)](https://astro.badg.es/contributor/SnowDingo/)
 
 # 📊 Github Stats
-![SnowDingo's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowdingo&show_icons=true&theme=transparent)
+![SnowDingo's Stats](https://github-readme-stats.vercel.app/api?username=SnowDingo&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
 # 🛥️ Top Languages
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDingo&layout=compact)
+![SnowDingo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDingo&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 <!---
 SnowDingo/SnowDingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
