@@ -1,13 +1,13 @@
-# About ME
+# About ME/私について
 I am a young passionate coder, and here are some little facts about me:
-- 😎 I am currently developing a free graph maker web app. https://free-graph-maker.vercel.app/
-- 👀 I’m interested in game dev and web development
-- 🌱 I’m currently learning Astro and Godot
-- 📫 Portfolio https://snowdingo.github.io/Portofolio/
-- 🐟 My blog -> https://binary-fish.vercel.app/
-- 💞️ Pronouns: He/Him
+- 😎 I am the founder of the tech blog BinaryFish | BinaryFishというブログを運営しています。
+- 👀 I’m interested in web development, specifically Astro.js and electron.js　| AstroやElectronを使用したウェブ開発に興味があります
+- 🌱 I’m currently learning Astro.js, Chart.js, Typescript, and Atcoder(Python) | 現在Astro.jsとChart.jsとTypescriptとPythonを使用したAtcoder（競技プログラミング）を学んでいます 
+- 📫 Portfolio https://snowdingo.vercel.app/en/　| ポートフォリオ: https://snowdingo.vercel.app/ja/
+- 🐟 My blog -> https://binary-fish.vercel.app/ | BinaryFish（自作ブログ）： https://binary-fish.vercel.app/
+- 💞️ Pronouns: He/Him 
 
-# 💪 My Skills 
+# 💪 My Skills ・　得意分野
 
  ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
@@ -17,13 +17,13 @@ I am a young passionate coder, and here are some little facts about me:
  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Github](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 
-# Astro Contribution Stats
+# Astro Contribution Stats　（Astro関連プロジェクトの貢献ステータース）
 [![@SnowDingo Astro contributions](https://astro.badg.es/v2/contributor/SnowDingo.svg)](https://astro.badg.es/contributor/SnowDingo/)
 
 # 📊 Github Stats
 ![SnowDingo's Stats](https://github-readme-stats.vercel.app/api?username=SnowDingo&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
-# 🛥️ Top Languages
+# 🛥️ Top Languages　（上位言語）
 ![SnowDingo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDingo&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 <!---
 SnowDingo/SnowDingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
