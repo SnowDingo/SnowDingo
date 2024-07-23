@@ -30,6 +30,6 @@ SnowDingo/SnowDingo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-#🚀 Streaks + Total Commitments
+# 🚀 Streaks + Total Commitments
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SnowDingo&theme=blueberry)](https://git.io/streak-stats)
