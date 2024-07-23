@@ -29,3 +29,7 @@ I am a young passionate coder, and here are some little facts about me:
 SnowDingo/SnowDingo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+#🚀 Streaks + Total Commitments
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SnowDingo&theme=blueberry)](https://git.io/streak-stats)
