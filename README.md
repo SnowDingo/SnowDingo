@@ -28,6 +28,8 @@ I am a young passionate coder, and here are some little facts about me:
 # 📊 Github Stats
 ![SnowDingo's Stats](https://github-readme-stats.vercel.app/api?username=SnowDingo&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=snowdingo&theme=nord)
+
 # 🛥️ Top Languages　（上位言語）
 ![SnowDingo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowDingo&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 <!---
