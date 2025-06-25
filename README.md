@@ -10,8 +10,8 @@ I am a young passionate coder, and here are some little facts about me:
 # 💪 My Skills ・　得意分野
 [![My Skills](https://skillicons.dev/icons?i=js,latex,materialui,nextjs,nodejs,py,react,tailwind,vite,react,markdown,astro,firebase,godot,java,flutter&perline=8)](https://skillicons.dev)
 
-# Astro Contribution Stats　（Astro関連プロジェクトの貢献ステータース）
-[![@SnowDingo Astro contributions](https://astro.badg.es/v2/contributor/SnowDingo.svg)](https://astro.badg.es/contributor/SnowDingo/)
+# Astro Contribution Stats　（Astro関連プロジェクトの貢献ステータース）& TryHackMe Badge (TryhackMeのバッジ)
+[![@SnowDingo Astro contributions](https://astro.badg.es/v2/contributor/SnowDingo.svg)](https://astro.badg.es/contributor/SnowDingo/) <img src="https://tryhackme-badges.s3.amazonaws.com/SnowSable.png" alt="Your Image Badge" />
 
 # 📊 Github Stats
 ![SnowDingo's Stats](https://github-readme-stats.vercel.app/api?username=SnowDingo&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
