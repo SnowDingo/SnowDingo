@@ -8,7 +8,7 @@ I am a young passionate coder, and here are some little facts about me:
 - 💞️ Pronouns: He/Him 
 
 # 💪 My Skills ・　得意分野
-[![My Skills](https://skillicons.dev/icons?i=js,latex,materialui,nextjs,nodejs,py,react,tailwind,vite,react,markdown,astro,firebase,godot,java,flutter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,rust,latex,materialui,nextjs,nodejs,py,react,tailwind,vite,react,markdown,astro,firebase,godot,java,flutter&perline=8)](https://skillicons.dev)
 
 # Astro Contribution Stats　（Astro関連プロジェクトの貢献ステータース）& TryHackMe Badge (TryhackMeのバッジ)
 [![@SnowDingo Astro contributions](https://astro.badg.es/v2/contributor/SnowDingo.svg)](https://astro.badg.es/contributor/SnowDingo/)<img src="https://tryhackme-badges.s3.amazonaws.com/SnowSable.png" alt="Snowsable tryhackme" />
