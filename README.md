@@ -11,8 +11,8 @@
 <a href="https://astro.badg.es/contributor/SnowDingo/">
   <img src="https://astro.badg.es/v2/contributor/SnowDingo.svg" alt="@SnowDingo Astro contributions" width="260" height="156">
 </a>
-<img src="https://gitfut.com/SnowDingo.png" width="100" height="150"/>
-<img src="https://tryhackme-badges.s3.amazonaws.com/SnowSable.png" alt="Snowsable tryhackme" />
+
+<img src="https://gitfut.com/SnowDingo.png" width="100" height="150"/><img src="https://tryhackme-badges.s3.amazonaws.com/SnowSable.png" alt="Snowsable tryhackme" />
 
 
 ## Socials
