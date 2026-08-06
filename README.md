@@ -1,6 +1,6 @@
 # Hi 👋 My name is SnowDingo
 * * 🌍  I'm based in Hokkaido
-* * 🖥️  See my portfolio at [my portfolio](http://https://snowdingo.vercel.app/en/)
+* * 🖥️  See my portfolio at [my portfolio](https://portfolio-kenipos-projects.vercel.app/)
 * * ✉️  You can contact me at [snowdingo@duck.com](mailto:snowdingo@duck.com)
 * * 🧠  I'm currently learning DSA(Data Structures and Algorithm)
 
